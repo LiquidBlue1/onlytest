@@ -538,9 +538,9 @@ exports.run = function(server_name, text_channel_name, voice_channel_name, alias
 		console.log("Connected!");
 	});
 
-	bot.login(token);
+	bot.login(NDEyNjYwMTAwODk0MDMxODcy.DWNqmg.eo-gYU9PmIwwxgVaTObKepoo23c);
 }
 
-exports.setYoutubeKey = function(key) {
-	yt_api_key = key;
+exports.setYoutubeKey = function(AIzaSyDZ8eYT5ZaY0pvhyjOVhHpcMsyS92StH3w) {
+	yt_api_key = AIzaSyDZ8eYT5ZaY0pvhyjOVhHpcMsyS92StH3w;
 }
