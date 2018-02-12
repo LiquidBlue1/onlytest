@@ -542,5 +542,5 @@ exports.run = function(server_name, text_channel_name, voice_channel_name, alias
 }
 
 exports.setYoutubeKey = function(AIzaSyDZ8eYT5ZaY0pvhyjOVhHpcMsyS92StH3w) {
-	yt_api_key = AIzaSyDZ8eYT5ZaY0pvhyjOVhHpcMsyS92StH3w;
+	yt_api_key = key;
 }
